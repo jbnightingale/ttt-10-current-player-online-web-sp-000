@@ -1,5 +1,8 @@
 
-turns = 0
+
 def turn_count(board)
-turns += 1
+  turns = 0
+  if turn(count)
+    turns += 1
+  end
 end
